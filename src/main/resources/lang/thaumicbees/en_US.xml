@@ -205,6 +205,7 @@
     <entry key="thaumicbees.effectNodeGeneration">Aura Attract</entry>
     <entry key="thaumicbees.effectNodePurify">Purify Aura</entry>
     <entry key="thaumicbees.effectNodeFlux">Aura Flux</entry>
+    <entry key="thaumicbees.effectNodeCharge">Aura Charge</entry>
 	<entry key="thaumicbees.effectBrainy">Brainy</entry>
 	<entry key="thaumicbees.effectBatty">Batty</entry>
 	<entry key="thaumicbees.effectWispy">Wispy</entry>
