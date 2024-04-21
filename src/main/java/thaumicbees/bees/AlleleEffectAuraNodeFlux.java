@@ -46,7 +46,7 @@ public class AlleleEffectAuraNodeFlux extends AlleleEffect
 			{
 				tag = EnumTag.values()[world.rand.nextInt(EnumTag.values().length)];
 			}
-			while (tag == EnumTag.UNKNOWN || tag == EnumTag.WEATHER);
+			while (tag == EnumTag.UNKNOWN);
 			
 			int nodeId = ThaumcraftApi.getClosestAuraWithinRange(world, x, y, z, this.nodeRange);
 			if (nodeId != -1)
